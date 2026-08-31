@@ -656,3 +656,15 @@ nav[data-astro-cid-dmqpwcec] {
 
 
 
+.roles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.resume-pill {
+  flex-basis: auto;
+  justify-content: center;
+  text-decoration: none;
+  cursor: pointer;
+}
